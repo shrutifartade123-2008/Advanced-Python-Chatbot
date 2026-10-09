@@ -1,0 +1,70 @@
+🤖 Advanced Python Chatbot
+
+📌 About the Project
+
+Advanced Python Chatbot is a rule-based conversational program developed using Python. It interacts with users, provides predefined responses, performs basic mathematical calculations, and stores chat history in a JSON file.
+
+This project was created as part of the CodeAlpha Python Programming Internship.
+
+✨ Features
+
+- Interactive chatbot conversation
+- Smart keyword-based responses
+- Random greetings and jokes
+- Current date and time
+- Basic calculator with safe expression evaluation
+- Chat history storage using JSON
+- View previous conversations
+- Clear chat history
+- Input validation and error handling
+- Help menu and exit commands
+
+🛠️ Technologies Used
+
+- Python 3
+- Random module
+- Datetime module
+- JSON module
+- AST module
+- OS module
+
+▶️ How to Run
+
+1. Install Python 3 or open Pydroid 3 on Android.
+2. Open the "advanced_chatbot.py" file.
+3. Run the program.
+4. Type "help" to view available commands.
+5. Enter your message and interact with the chatbot.
+
+💬 Available Commands
+
+- "hello" — Get a greeting
+- "how are you" — Ask how the bot is doing
+- "your name" — Ask the chatbot's name
+- "time" — Display the current time
+- "date" — Display today's date
+- "joke" — Get a random joke
+- "motivation" — Receive a motivational message
+- "study" — Get a study tip
+- "calculate: 25 * 4" — Perform a calculation
+- "history" — View saved conversations
+- "clear history" — Clear saved conversations
+- "help" — Display available commands
+- "bye" — Exit the chatbot
+
+📁 Project Files
+
+- "advanced_chatbot.py" — Main Python program
+- "chat_history.json" — Stores chat history automatically when the chatbot runs
+
+🎯 Learning Outcomes
+
+This project demonstrates the use of Python functions, dictionaries, loops, conditional statements, exception handling, JSON file handling, and safe expression evaluation.
+
+👩‍💻 Author
+
+Python Programming Intern
+
+📜 License
+
+This project was developed for educational purposes as part of a Python programming internship.
